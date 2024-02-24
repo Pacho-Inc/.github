@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Welcome to Flummy!👋</h1>
+<h1 align="center">Welcome to Pacho Inc!👋</h1>
 
 ![Background-Image](./profile/Images-Github/GitHub-Background2.png)
 
